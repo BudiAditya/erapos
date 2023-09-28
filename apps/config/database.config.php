@@ -6,7 +6,7 @@ $settings->Username = "root";
 $settings->Password = "";
 $settings->Host = "127.0.0.1";
 $settings->Port = 3306;
-$settings->DatabaseName = "db_erapos";
+$settings->DatabaseName = "db_erapos1";
 // These settings will affect error reporting and will set to true for development debugging. Please change to false to production
 $settings->SuppressPhpError = true;
 $settings->RaiseConnectionError = true;
